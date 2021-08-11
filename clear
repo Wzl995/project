@@ -1,0 +1,42 @@
+[33mcommit a82ca88869e97e91827ac38fe70633845d1c3ba9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 17:37:06 2021 +0800
+
+    创建了git忽略文件
+
+[33mcommit 01aadf40a1e99f5c29d663d6011abf991a0c4b20[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 17:22:03 2021 +0800
+
+    移除了index.css和index.js
+
+[33mcommit fec382d1a1b3b159092509507bc739ee0bb5bee5[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 17:11:20 2021 +0800
+
+    修改了index.css
+
+[33mcommit c16b71f263bd5d5332b8e7f59d78b1636a343f35[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 17:08:58 2021 +0800
+
+    新增了index.js
+    git commit -m 新增了index.js和index.css并修改了index.html“
+
+[33mcommit 7af920ad3e0dfa51fbca611b195dd672f50c11aa[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 16:46:55 2021 +0800
+
+    ”新增了index.js和index.css并修改了index.html“
+
+[33mcommit 4de11187761a447ae6d6068998051ddd46c5fd7f[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 16:14:42 2021 +0800
+
+    提交消息
+
+[33mcommit c3481e52664f68da0aace31c7719b7b1810a0b3d[m
+Author: wzl <2205800230@qq.com>
+Date:   Tue Aug 10 15:26:03 2021 +0800
+
+    新建了index.html文件
